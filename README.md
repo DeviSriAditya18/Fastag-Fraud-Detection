@@ -1,0 +1,1 @@
+The FASTag Fraud Detection project aims to identify fraudulent transactions in the FASTag electronic toll collection system. By leveraging machine learning algorithms, the system can detect anomalies and potentially fraudulent activities to prevent financial losses and enhance security.
